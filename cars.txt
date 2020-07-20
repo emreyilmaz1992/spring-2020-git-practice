@@ -4,3 +4,6 @@ mercedes
 audi
 KIA
 Tesla
+ferrari
+jeep
+ford
