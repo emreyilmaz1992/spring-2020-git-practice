@@ -4,6 +4,9 @@ gray
 pink
 orange
 purple
-
+Turqoise
 ##brown
+indigo
+
+
 
