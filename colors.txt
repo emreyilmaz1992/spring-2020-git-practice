@@ -1,6 +1,6 @@
 red
 color edited
-
 gray
 pink
+orange
 
